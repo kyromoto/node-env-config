@@ -1,0 +1,29 @@
+{
+  "name": "node-env-config",
+  "version": "1.0.0",
+  "description": "node-env-config get config object from process.env",
+  "contributors": [
+    {
+      "name": "Oliver Rademaker",
+      "email": "info@oliverrademaker.de"
+    }
+  ],
+  "private": false,
+  "main": "lib/node-env-config.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kyromoto/node-env-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyromoto/node-env-config/issues"
+  },
+  "keywords": [
+    "environment",
+    "nodeenv"
+  ]
+}
