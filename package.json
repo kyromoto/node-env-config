@@ -1,7 +1,7 @@
 {
-  "name": "node-env-config",
-  "version": "1.0.0",
-  "description": "node-env-config get config object from process.env",
+  "name": "node-env-object",
+  "version": "1.0.1",
+  "description": "node-env-object get env as object from process.env",
   "contributors": [
     {
       "name": "Oliver Rademaker",
@@ -9,18 +9,18 @@
     }
   ],
   "private": false,
-  "main": "lib/node-env-config.mjs",
+  "main": "lib/node-env-object.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kyromoto/node-env-config.git"
+    "url": "git://github.com/kyromoto/node-env-object.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kyromoto/node-env-config/issues"
+    "url": "https://github.com/kyromoto/node-env-object/issues"
   },
   "keywords": [
     "environment",
