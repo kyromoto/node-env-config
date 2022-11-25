@@ -7,8 +7,7 @@ Simple node module to convert an .env file to an js object.
 To be able to process envs from .env file load them first. I prefere the dotenv package from npm.
 
 ```shell
-npm install dotenv
-npm install https://github.com/kyromoto/node-env-object.git
+npm install dotenv https://github.com/kyromoto/node-env-object.git
 ```
 
 An example .env:
