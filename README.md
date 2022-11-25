@@ -1,11 +1,14 @@
 # node-env-config
 
+Simple node module to convert an .env file to an config object.
+
 ## Quick start
 
 To be able to process envs from .env file load them first. I prefere the dotenv package from npm.
 
 ```shell
 $ npm install dotenv
+$ npm install https://github.com/kyromoto/node-env-config.git
 ```
 
 An example .env:
